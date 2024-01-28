@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    color: blue;
+    padding: 5px;
+}
+header a{
+    background-color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+h1{
+    color: red;
+    border: 2px solid blue;
+    border-radius: 5px;
+    text-align: center;
+}
+footer {
+    margin: 3px;
+}
+footer p{
+    background-color: yellowgreen;
+}
+nav{
+   border: 2px solid blue;
+   border-radius: 5px;
+   background-color: navajowhite;
+   padding: 5px; 
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+.product{
+    background-color: green;
+}
+h2{
+    color: blue;
+    font-size: 20px;
+}
+.contact{
+    text-decoration: none;
+    border: 3px solid blue;
+}
+.season{
+    margin: 5px;
+    padding: 5px;
+}
+.buy{
+    margin: 5px;
+    padding: 5px;
+}
+.company{
+    text-decoration: none;
+    border: 3px solid red;
+}
